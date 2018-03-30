@@ -2,7 +2,7 @@
 #  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper: 
-    title: XCDAS: The Evolution of a Standards-Based Library Repository System at Dartmouth
+    title: "XCDAS: The Evolution of a Standards-Based Library Repository System at Dartmouth"
     authors: Anthony Helm
     conference: Presentation, Coalition for Networked Information (CNI) Spring 2017
   - paper:
