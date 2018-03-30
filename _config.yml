@@ -6,7 +6,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
+#style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -20,7 +20,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 summary: "As Head of Digital Media and Library Technologies, I provide leadership for the administration, planning, implementation, and assessment of the Library’s information technology and media services."
 
 #sidebar links
-email: anthonyhelm [at] ma.com
+email: anthonyhelm [at] mac.com
 #phone: 012 345 6789
 website: antband.github.io/online-cv/ #do not add http://
 linkedin: anthonyhelm
@@ -29,7 +29,7 @@ twitter: '@MediaMixed'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-#education_in_main: True
+education_in_main: True
 
 # Tracker
 analytics: UA-83979019-1
