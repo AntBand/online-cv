@@ -1,19 +1,44 @@
 #intro: "You can list your publications in this section. Lorem ipsum dolor
 #  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
+publications:
   - paper: 
     title: "XCDAS: The Evolution of a Standards-Based Library Repository System at Dartmouth"
     authors: Anthony Helm
     conference: Presentation, Coalition for Networked Information (CNI) Spring 2017
+  - paper: 
+    title: "More than Just Play: Board Game Collections in Academic Libraries"
+    authors: Laura Braunstein, Anthony Helm, Jessica Olin, Nicole Tekulve
+    conference: Presentation, Association of College and Research Libraries (ACRL) 2017 Conference, Mar 25, 2017
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: "There's plenty left to do once the spackle dries: Our Road to Reimagine the Media Center"
+    authors: Anthony Helm
+    conference: Presentation, 2016 New Media Consortium (NMC) Summer Conference, June 16, 2016
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: "Slingin' Pi: How the Jones Media Center uses Raspberry Pi to deliver student-created content to digital signage"
+    authors: Anthony Helm
+    conference: Presentation, 2016 New Media Consortium (NMC) Summer Conference, June 15, 2016
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: "Let's Talk Trends, Challenges &amp; Emerging Technologies"
+    authors: Anthony Helm, Lindley Shedd Francoeur
+    conference: Presentation, Consortium of College and University Media Centers (CCUMC) 2015 Conference, October 2015
+  - paper:
+    title: "The Media Center's New Groove"
+    authors: Anthony Helm
+    conference: Presentation, Consortium of College and University Media Centers (CCUMC) 2015 Conference, October 2015
+  - paper:
+    title: Copyright, Copyleft and Student-Created Media
+    authors: Lindley Shedd Francoeur, Anthony Helm, Jane Hutchison Surdi 
+    conference: Presentation, Consortium of College and University Media Centers (CCUMC) 2014 Conference, October 17, 2014
+  - paper:
+    title: "CopyWrites: Crafting Successful AV Copyright Policies for Your Institution"
+    authors: Lindley Shedd Francoeur, Anthony Helm, Kim Stanton, Jane Hutchison Surdi
+    conference: Pre-Conference Workshop, Consortium of College and University Media Centers (CCUMC) 2014 Conference, October 15, 2014
+  - paper:
+    title: Copyright Updates for the Digital Age
+    authors: Lindley Shedd Francoeur, Anthony Helm, Jane Hutchison Surdi 
+    conference: Webinar, Consortium of College and University Media Centers, February 28, 2014
+  - paper:
+    title: "Moving beyond the org chart: Library and IT collaboration for course design and support."
+    authors: Laura Barrett, Michael Beahan, Ridie W. Ghezzi, Anthony Helm, Joshua Kim
+    conference: "Research Bulletin 14, 2010. Boulder: EDUCAUSE Center for Applied Research."
